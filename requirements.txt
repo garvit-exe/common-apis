@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard] # For local development server
+pydantic # For data validation (comes with FastAPI but good to list)
+python-multipart # For form data (e.g. file uploads, though not used initially)
+# Libraries for specific APIs (add as needed)
+markdown
+python-jose[cryptography] # For potential future JWT, etc.
+passlib[bcrypt] # For potential future password hashing
+pytz # For timezone conversions
+holidays # For holiday calendar
+user-agents # For User Agent parsing
+requests # For making external API calls (e.g., IP info)

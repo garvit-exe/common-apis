@@ -1,0 +1,6 @@
+[
+  {"name": "United States", "capital": "Washington D.C.", "currency": "USD", "iso2": "US", "population": 331000000, "flag_emoji": "🇺🇸"},
+  {"name": "Canada", "capital": "Ottawa", "currency": "CAD", "iso2": "CA", "population": 37700000, "flag_emoji": "🇨🇦"},
+  {"name": "India", "capital": "New Delhi", "currency": "INR", "iso2": "IN", "population": 1380000000, "flag_emoji": "🇮🇳"},
+  {"name": "United Kingdom", "capital": "London", "currency": "GBP", "iso2": "GB", "population": 67800000, "flag_emoji": "🇬🇧"}
+]
